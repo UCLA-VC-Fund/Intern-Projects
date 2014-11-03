@@ -16,6 +16,8 @@ You don’t need a large dataset for this first project. The goal is to demonstr
 3. Store all of the user information in a database of your choice (MySQL, MongoDB, PostgreSQL)
 4. Create a simple way for non-technical users to view the contents of the database, preferably a web page.
 
-Please host your code with an open source license (e.g. the [MIT License](http://choosealicense.com/licenses/mit/) publicly on Github in a repository named however you like. (Note: make sure not to commit your API keys or other credentials!)
+Please host your code with an open source license (e.g. the [MIT License](http://choosealicense.com/licenses/mit/) publicly on Github in your own repository named however you like. (Note: make sure not to commit your API keys or other credentials!)
+
+###Finish Date: November 16th, 2014
 
 If you have questions email me at alex@enplug.com.
