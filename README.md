@@ -9,6 +9,8 @@ There are several sources of publicly-available tech industry data, namely Crunc
 
 You don’t need a large dataset for this first project. The goal is to demonstrate your ability to connect multiple disparate technologies into one useful deliverable for UCLA VC Fund members.
 
+Please write a program/script that completes the steps below. You can choose how you'd like your script to be executed (e.g. command line, web interface, etc.)
+
 ###Steps:
 
 1. Use the [AngelList search API](https://api.angel.co/1/search?query=ucla&type=User) to return a list of UCLA-affiliated users.
